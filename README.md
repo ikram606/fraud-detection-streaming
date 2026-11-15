@@ -39,3 +39,8 @@ Dashboard Streamlit (KPIs, Graphiques Plotly, Journal des alertes)
 3. Demarrer le producteur et le dashboard :
    python producer/producer.py
    python -m streamlit run dashboard/app.py
+## Apercu du Dashboard Temps Reel
+
+![KPIs et Graphiques SOC](assets/dashboard_kpis.png)
+
+![Top Clients et Journal des Alertes](assets/dashboard_alerts.png)
